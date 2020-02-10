@@ -125,14 +125,3 @@ public class WriteLoopsTest
         assertEquals(3, writeLoo1.checkServerStatus());
     }
 }
-
-
-
-
-
-
-
-
-
-
-
